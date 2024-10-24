@@ -19,3 +19,12 @@ mprun_demo.py
 panel-examples
 deploy-panel.html
 test.png
+
+# venv
+.venv/
+
+# pip install -e .
+cusy_design_system.egg-info/
+
+#vale
+styles/*
