@@ -83,6 +83,10 @@ Farbdifferenzen nach CIEDE2000
 .. raw:: html
     :file: chord-ciede2000.html
 
+.. raw:: html
+    :file: table-ciede2000.html
+.. caption:: Farbdifferenzen nach CIEDE2000
+
 Alternativen für das Light Theme
 --------------------------------
 
