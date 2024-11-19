@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1600 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-300,-1.13687e-13)">
+        <g id="Purple-100" serif:id="Purple 100" transform="matrix(1,0,0,1,107,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(117,59,189);"/>
+        </g>
+        <g id="Purple-82" serif:id="Purple 82" transform="matrix(1,0,0,1,227,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(142,94,201);"/>
+        </g>
+        <g id="Purple-64" serif:id="Purple 64" transform="matrix(1,0,0,1,347,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(167,130,213);"/>
+        </g>
+        <g id="Purple-46" serif:id="Purple 46" transform="matrix(1,0,0,1,467,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(192,165,225);"/>
+        </g>
+        <g id="Purple-28" serif:id="Purple 28" transform="matrix(1,0,0,1,587,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(216,200,237);"/>
+        </g>
+        <g id="Purple-10" serif:id="Purple 10" transform="matrix(1,0,0,1,707,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(241,235,248);"/>
+        </g>
+        <g id="Teal-100" serif:id="Teal 100" transform="matrix(1,0,0,1,1427,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(0,133,120);"/>
+        </g>
+        <g id="Teal-82" serif:id="Teal 82" transform="matrix(1,0,0,1,1307,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(46,155,144);"/>
+        </g>
+        <g id="Teal-64" serif:id="Teal 64" transform="matrix(1,0,0,1,1187,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(92,177,169);"/>
+        </g>
+        <g id="Teal-46" serif:id="Teal 46" transform="matrix(1,0,0,1,1067,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(138,199,193);"/>
+        </g>
+        <g id="Teal-28" serif:id="Teal 28" transform="matrix(1,0,0,1,947,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(184,221,217);"/>
+        </g>
+        <g id="Teal-10" serif:id="Teal 10" transform="matrix(1,0,0,1,827,-196.262)">
+            <rect x="273" y="263" width="120" height="120" style="fill:rgb(230,243,242);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,14.8646,-743.876)">
+            <g transform="matrix(24,0,0,24,417.582,842.893)">
+            </g>
+            <text x="377.539px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:white;">100</text>
+        </g>
+        <g transform="matrix(1,0,0,1,134.824,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:white;">82</text>
+        </g>
+        <g transform="matrix(1,0,0,1,254.865,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:white;">64</text>
+        </g>
+        <g transform="matrix(1,0,0,1,374.824,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:rgb(2,1,2);">46</text>
+        </g>
+        <g transform="matrix(1,0,0,1,494.865,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:rgb(2,1,2);">28</text>
+        </g>
+        <g transform="matrix(1,0,0,1,614.824,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:rgb(2,1,2);">10</text>
+        </g>
+        <g transform="matrix(1,0,0,1,734.865,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:rgb(2,1,2);">10</text>
+        </g>
+        <g transform="matrix(1,0,0,1,854.824,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:rgb(2,1,2);">28</text>
+        </g>
+        <g transform="matrix(1,0,0,1,974.865,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:rgb(2,1,2);">46</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1094.82,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:white;">64</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1214.86,-743.876)">
+            <g transform="matrix(24,0,0,24,410.908,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:white;">82</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1334.82,-743.876)">
+            <g transform="matrix(24,0,0,24,417.582,842.893)">
+            </g>
+            <text x="377.539px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;fill:white;">100</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14.8646,-788.682)">
+            <g transform="matrix(24,0,0,24,457.625,842.893)">
+            </g>
+            <text x="377.539px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">753bbd</text>
+        </g>
+        <g transform="matrix(1,0,0,1,134.824,-788.682)">
+            <g transform="matrix(24,0,0,24,462.951,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">8e5ec9</text>
+        </g>
+        <g transform="matrix(1,0,0,1,254.865,-788.682)">
+            <g transform="matrix(24,0,0,24,464.298,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">a782d5</text>
+        </g>
+        <g transform="matrix(1,0,0,1,374.824,-788.682)">
+            <g transform="matrix(24,0,0,24,462.951,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">c0a5e1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,494.865,-788.682)">
+            <g transform="matrix(24,0,0,24,462.951,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">d8c8ed</text>
+        </g>
+        <g transform="matrix(1,0,0,1,614.824,-788.682)">
+            <g transform="matrix(24,0,0,24,450.939,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">f1ebf8</text>
+        </g>
+        <g transform="matrix(1,0,0,1,734.865,-788.682)">
+            <g transform="matrix(24,0,0,24,450.939,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">e6f3f2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,854.824,-788.682)">
+            <g transform="matrix(24,0,0,24,464.298,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">b8ddd9</text>
+        </g>
+        <g transform="matrix(1,0,0,1,974.865,-788.682)">
+            <g transform="matrix(24,0,0,24,461.603,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">8ac7c1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1094.82,-788.682)">
+            <g transform="matrix(24,0,0,24,462.951,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">5cb1a9</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1214.86,-788.682)">
+            <g transform="matrix(24,0,0,24,464.298,842.893)">
+            </g>
+            <text x="384.213px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">2e9b90</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1334.82,-788.682)">
+            <g transform="matrix(24,0,0,24,457.625,842.893)">
+            </g>
+            <text x="377.539px" y="842.893px" style="font-family:'ArialMT', 'Arial';font-size:24px;">008578</text>
+        </g>
+        <g transform="matrix(1,0,0,0.930233,20,-687.68)">
+            <rect x="360" y="940" width="1440" height="43" style="fill:url(#_LinearPurpleTeal);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,258.09,-734.629)">
+            <g transform="matrix(40,0,0,40,243.473,1010)">
+            </g>
+            <text x="119px" y="1010px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:40px;">Purple</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1325.28,-734.629)">
+            <g transform="matrix(40,0,0,40,496.305,1010)">
+            </g>
+            <text x="419.234px" y="1010px" style="font-family:'Arial-BoldMT', 'Arial';font-weight:700;font-size:40px;">T<tspan x="440.699px 462.945px " y="1010px 1010px ">ea</tspan>l</text>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_LinearPurpleTeal" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1440,0,0,43,360,961.5)"><stop offset="0" style="stop-color:rgb(117,59,189);stop-opacity:1"/><stop offset="0.5" style="stop-color:white;stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,133,120);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
