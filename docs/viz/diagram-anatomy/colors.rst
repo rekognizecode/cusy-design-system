@@ -18,11 +18,11 @@ Datenvisualisierung sind. Ein gängiges Muster ist die Verwendung
    * für unterstützende Diagrammelemente, wie Achsenbeschriftungen und
      Gitterlinien
 
-.. figure:: colour-hierarchy.png
-   :alt: Farbhierarchie
+.. raw:: html
+   :file: tiobe-index-python.html
 
-   Quelle: `Do vaccine mandates actually work?
-   <https://www.economist.com/graphic-detail/2022/01/22/do-vaccine-mandates-actually-work>`_
+Quelle: `TIOBE
+<https://www.tiobe.com/tiobe-index#container>`_
 
 .. _colour-hierarchy:
 
@@ -85,7 +85,6 @@ Farbdifferenzen nach CIEDE2000
 
 .. raw:: html
     :file: table-ciede2000.html
-.. caption:: Farbdifferenzen nach CIEDE2000
 
 Alternativen für das Light Theme
 --------------------------------
