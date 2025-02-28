@@ -16,6 +16,7 @@ dependencies = []
 
 [project.optional-dependencies]
 docs = [
+    "altair",
     "bokeh",
     "ipython",
     "nbsphinx",

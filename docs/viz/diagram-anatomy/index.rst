@@ -101,4 +101,5 @@ Leistungskennzahl
     legends
     aspect-ratios
     colors
-    colors-implementation.ipynb
+    altair-nodeps.ipynb
+    altair-patterns.ipynb

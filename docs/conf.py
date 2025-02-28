@@ -166,9 +166,9 @@ def setup(app):
         indextemplate="pair: %s; label value",
     )
 
-    app.add_js_file("https://cdn.jsdelivr.net/npm/vega@5")
-    app.add_js_file("https://cdn.jsdelivr.net/npm/vega-lite@5.20.1")
-    app.add_js_file("https://cdn.jsdelivr.net/npm/vega-embed@6")
+    app.add_js_file("vega@5.js")
+    app.add_js_file("vega-lite@5.20.1.js")
+    app.add_js_file("vega-embed@6.js")
 
 
 # -- graphviz configuration --------------------------------------------------
