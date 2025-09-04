@@ -151,6 +151,10 @@ linkcheck_ignore = [
     r"https://m3.material.io/*#*",
     # 403 Client Error
     r"https://www.jstor.org/",
+    # Broken on GitHub
+    r"https://chartability.fizz.studio",
+    r"https://www.freiburg.de/pb/site/Freiburg/*",
+    r"https://datavizcatalogue.com/*",
 ]
 
 # -- nbsphinx configuration --------------------------------------------------
@@ -179,10 +183,10 @@ def setup(app):
         indextemplate="pair: %s; label value",
     )
 
-    app.add_js_file("../../../../docs/_static/vega-altair/vega@5.js")
-    app.add_js_file("../../../../docs/_static/vega-altair/vega-lite@5.20.1.js")
-    app.add_js_file("../../../../docs/_static/vega-altair/vega-embed@6.js")
-    app.add_js_file("../../../../docs/_static/vega-altair/vega-lib.js")
+    app.add_js_file("vega-altair/vega@5.js")
+    app.add_js_file("vega-altair/vega-lite@5.20.1.js")
+    app.add_js_file("vega-altair/vega-embed@6.js")
+    app.add_js_file("vega-altair/vega-lib.js")
 
 
 # -- graphviz configuration --------------------------------------------------
